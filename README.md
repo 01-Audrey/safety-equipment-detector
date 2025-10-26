@@ -184,7 +184,8 @@ results[0].save('output.jpg')
 
 ### Evolution Visualization
 
-*[Your complete_project_evolution_v3.png image will go here]*
+<img width="1195" height="731" alt="Screenshot 2025-10-26 234648" src="https://github.com/user-attachments/assets/484a40bf-f931-43c9-be2b-e17a36c55bb0" />
+
 
 ### Version Evolution
 
