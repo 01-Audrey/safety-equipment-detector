@@ -33,8 +33,8 @@ This project detects personal protective equipment (PPE) on construction workers
 
 ### Journey Summary
 ```
-v1 (Oct 26): 17.1% mAP → Established baseline
-v2 (Oct 26): 48.5% mAP → Optimized training (+184%)
+v1 (Oct 26): 15.8% mAP → Established baseline
+v2 (Oct 26): 52.6% → Optimized training (+184%)
 v3 (Oct 27): 75.1% mAP → Production ready! (+340% total)
 ```
 
