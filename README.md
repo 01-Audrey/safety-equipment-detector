@@ -98,23 +98,18 @@ Inference Speed: 3.8ms per image (262 FPS - real-time capable!)
 Safety-Equipment-Detector/
 ├── README.md                    # This file
 ├── requirements.txt             # Python dependencies
-├── LICENSE                      # MIT License
-│
+├── PROJECT_SUMMARY.md           # Documentation
 ├── notebooks/                   # Jupyter notebooks
 │   ├── 01_dataset_creation.ipynb
 │   └── 02_model_training_complete.ipynb
 │
-├── results/                     # Training results & visualizations
-│   ├── complete_project_evolution_v3.png
-│   ├── confusion_matrix.png
-│   └── sample_predictions.png
-│
-├── models/                      # Trained model weights
-│   └── best.pt                  # Production model (v3)
-│
-└── docs/                        # Documentation
-    ├── PROJECT_SUMMARY.md
-    └── LESSONS_LEARNED.md
+└── results/                     # Training results & visualizations
+   ├── complete_project_evolution_v3.png
+   ├── confusion_matrix.png
+   └── sample_predictions.png
+
+
+
 ```
 
 ---
