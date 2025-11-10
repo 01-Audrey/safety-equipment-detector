@@ -407,8 +407,8 @@ MIT License - feel free to use this project for learning purposes!
 
 **Audrey M.**
 
-- GitHub: [@01000001-A](https://github.com/01000001-A)
-- Email: daneaudreyy024@gmail.com
+- GitHub: [@01-Audrey](https://github.com/01-Audrey)
+- Email: daneaudreyy24@gmail.com
 - Portfolio: Part of 24-week ML Learning Journey
 
 ---
@@ -457,7 +457,7 @@ Have questions about this project? Want to discuss ML engineering?
 **Reach out:**
 - Try the [Live Demo](https://safety-equipment-detector-fnbevdmq2b9cxyqtjru4u8.streamlit.app/)
 - Open an issue on GitHub
-- Email me: daneaudreyy024@gmail.com
+- Email me: daneaudreyy24@gmail.com
 
 ---
 
