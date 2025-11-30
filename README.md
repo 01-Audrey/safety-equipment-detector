@@ -12,7 +12,7 @@ AI-powered safety equipment detection system using YOLOv8 for construction site 
 
 ## 🌐 Live Demo
 
-**🚀 [Try the Live App!](https://safety-equipment-detector-fnbevdmq2b9cxyqtjru4u8.streamlit.app/)** 
+**🚀 [Try the Live App!](https://safety-equipment-detector.streamlit.app/)** 
 
 Upload a construction site image and see real-time PPE detection in action!
 
